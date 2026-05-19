@@ -60,6 +60,7 @@ To analyze a high-intensity Premier League match between **AFC Bournemouth** and
 - Shot outcome classification breakdown  
 - xG by situation (open play, corners, free kicks)  
 - Shot type analysis (left foot, right foot, head)  
+<img width="783" height="514" alt="image" src="https://github.com/user-attachments/assets/745a9f2f-ccb2-4551-a476-a6a9e4010d8e" />
 
 ---
 
